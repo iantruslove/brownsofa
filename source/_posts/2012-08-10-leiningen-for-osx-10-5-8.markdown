@@ -16,6 +16,8 @@ categories:
 
 My old MacBook Pro (A1260/MacBookPro4,1/OS X 10.5.8 Leopard) might be getting a little ragged at the edges, might be needing some new memory, but it can still play with the cool kids after fixing a couple of small issues getting [Leiningen](https://github.com/technomancy/leiningen/) (both 1 and 2) to work.  In short, using Java 1.6 fixed the problem.
 
+<!-- more -->
+
 Download Leiningen in the (well, my) usual manner:
 
     

@@ -14,7 +14,7 @@ categories:
 
 It seems that I borked xcode, did something bad with my libssl, or just that my system's too out of date to trivially [install](http://sites.google.com/site/nodejsmacosx/), [homebrew](http://shapeshed.com/journal/setting-up-nodejs-and-npm-on-mac-osx/) or [build](http://www.devpatch.com/2010/02/installing-node-js-on-os-x-10-6/) [NodeJS](http://nodejs.org/).  I really want to install Node, so here's what I just did.
 
-
+<!-- more -->
 
 
 

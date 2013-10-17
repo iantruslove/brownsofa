@@ -19,6 +19,7 @@ I didn't even realize there's a set of command line tools for working with Amazo
 
 _I'm using OSX Lion.  If you're using another *nix this is all fairly easy to translate. I have no idea how this could be Windows-ified..._
 
+<!-- more -->
 
 ## Download and Install
 

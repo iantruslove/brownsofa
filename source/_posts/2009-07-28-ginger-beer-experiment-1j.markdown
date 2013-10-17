@@ -20,7 +20,7 @@ I made about a gallon of homemade ginger beer.  It's not perfect but it's prett
 
 I was flicking through the Southwest Air in-flight magazine the other week and they had some cocktail recipes, so I shoved the mag in my backpack and forgot about it until last weekend, when I made a batch.  I just tasted the first glass, and it's hot as hell but pretty good.  It's gingery, lightly carbonated, not too sweet, and tastes a little too much of habanero.  I'll make it again but modify the recipe a little.   Here's what I'll do next time:
 
-
+<!-- more -->
 
 	
   * _Juice from 1lb finely grated ginger_
@@ -41,9 +41,9 @@ I was flicking through the Southwest Air in-flight magazine the other week and t
   * _Champagne yeast_
 
 
-_Bring some of the water to boil and dissolve sugar.  Add the juice from the grated ginger, lemon juice, remainder of water and habaneros.  Stick it in the fridge overnight._
+Bring some of the water to boil and dissolve sugar. Add the juice from the grated ginger, lemon juice, remainder of water and habaneros. Stick it in the fridge overnight.
 
-_Remove habaneros, bring back to room temperature (I did it on the stove), bottle and add a little yeast to each bottle (I used 32 oz gatorade bottles, and about 1/8 teaspoon yeast per bottle).  Cap tightly, shake really really well, and keep in a warm place for a day or two until the pressure in the bottle has built.  Refrigerate to stop further fermentation._
+Remove habaneros, bring back to room temperature (I did it on the stove), bottle and add a little yeast to each bottle (I used 32 oz gatorade bottles, and about 1/8 teaspoon yeast per bottle). Cap tightly, shake really really well, and keep in a warm place for a day or two until the pressure in the bottle has built. Refrigerate to stop further fermentation.
 
 Lessons learned from this try:
 

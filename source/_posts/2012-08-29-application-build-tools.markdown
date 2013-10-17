@@ -19,6 +19,7 @@ categories:
 
 In my experience, there’s a common set of _types_ of tools that every project needs. When it’s time to start up a new project, here’s an outline of the things to consider when putting together a new tool chain, and some examples of good tools I’ve seen recently.
 
+<!-- more -->
 
 ## Source Control
 

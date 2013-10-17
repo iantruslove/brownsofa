@@ -19,6 +19,8 @@ tags:
 
 I've always been a little jealous of RSpec.  Those Ruby kids and their natural language BDD testing and plain text stories...  It always just seems more awkward any other way.  Cucumber looks pretty cool but getting it to play nicely with PHP is a little over my KISS threshold today.
 
+<!-- more -->
+
 Well, PHPUnit does have an alternative in its [Story extension](http://www.phpunit.de/manual/3.5/en/behaviour-driven-development.html).  Look at the docs and it's simple enough to put into effect, and works nicely as part of a bigger set of unit tests.  But check out how those scenarios are constructed - the argument passing just doesn't seem elegant, and run `phpunit --story <file>` on the 2-arg puppies and it's not pretty at all.  Here's a simple scenario straight from the manual:
 
     
