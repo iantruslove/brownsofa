@@ -5,6 +5,7 @@ date: 2008-04-10 03:29:02+00:00
 layout: post
 slug: still-cleaning-up-the-shopsmith
 title: Still cleaning up the Shopsmith
+alias: blog/archives/13/index.html
 wordpress_id: 13
 categories:
 - home

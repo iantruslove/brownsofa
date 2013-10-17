@@ -5,6 +5,7 @@ date: 2010-07-29 02:44:14+00:00
 layout: post
 slug: how-to-selectively-delete-photos-off-iphone
 title: How To Selectively Delete Photos Off iPhone?
+alias: blog/archives/159/index.html
 wordpress_id: 159
 tags:
 - iphone

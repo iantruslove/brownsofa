@@ -5,6 +5,7 @@ date: 2008-08-29 02:14:55+00:00
 layout: post
 slug: vw-bus-book-reviews
 title: VW Bus Book Reviews
+alias: blog/archives/19/index.html
 wordpress_id: 19
 categories:
 - vw bus

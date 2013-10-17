@@ -5,6 +5,7 @@ date: 2008-04-02 05:58:24+00:00
 layout: post
 slug: lathe-restoration
 title: Lathe Restoration
+alias: blog/archives/12/index.html
 wordpress_id: 12
 categories:
 - home

@@ -5,6 +5,7 @@ date: 2010-12-30 21:48:20+00:00
 layout: post
 slug: arduino-8x8-game-of-life
 title: Arduino Game Of Life on 8x8 LED Matrix
+alias: blog/archives/170/index.html
 wordpress_id: 170
 categories:
 - microprocessors

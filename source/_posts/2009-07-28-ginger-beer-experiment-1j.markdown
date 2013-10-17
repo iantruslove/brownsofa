@@ -5,6 +5,7 @@ date: 2009-07-28 03:18:35+00:00
 layout: post
 slug: ginger-beer-experiment-1j
 title: 'Ginger beer experiment #1'
+alias: blog/archives/40/index.html
 wordpress_id: 40
 categories:
 - projects

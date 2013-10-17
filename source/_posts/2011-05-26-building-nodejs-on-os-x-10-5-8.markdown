@@ -5,6 +5,7 @@ date: 2011-05-26 03:58:44+00:00
 layout: post
 slug: building-nodejs-on-os-x-10-5-8
 title: Building NodeJS on OS X 10.5.8
+alias: blog/archives/334/index.html
 wordpress_id: 334
 categories:
 - javascript

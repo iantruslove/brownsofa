@@ -5,6 +5,7 @@ date: 2010-07-18 05:43:14+00:00
 layout: post
 slug: bdd-with-phpunit
 title: More natural BDD with PHPUnit
+alias: blog/archives/83/index.html
 wordpress_id: 83
 categories:
 - programming

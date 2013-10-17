@@ -4,6 +4,7 @@ comments: true
 date: 2012-08-10 04:54:15+00:00
 layout: post
 slug: leiningen-for-osx-10-5-8
+alias: blog/archives/358/index.html
 title: Leiningen for OSX 10.5.8
 wordpress_id: 358
 categories:

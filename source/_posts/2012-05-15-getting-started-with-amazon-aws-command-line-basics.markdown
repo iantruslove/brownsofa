@@ -4,6 +4,7 @@ comments: true
 date: 2012-05-15 03:10:55+00:00
 layout: post
 slug: getting-started-with-amazon-aws-command-line-basics
+alias: blog/archives/346/index.html
 title: Getting Started with Amazon AWS Command Line Basics
 wordpress_id: 346
 categories:

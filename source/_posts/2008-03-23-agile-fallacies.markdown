@@ -5,6 +5,7 @@ date: 2008-03-23 01:10:15+00:00
 layout: post
 slug: agile-fallacies
 title: Agile Fallacies
+alias: blog/archives/10/index.html
 wordpress_id: 10
 categories:
 - agile

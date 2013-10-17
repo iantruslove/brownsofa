@@ -5,6 +5,7 @@ date: 2010-07-24 16:50:15+00:00
 layout: post
 slug: php-5-3-xdebug-netbeans-mac-osx-leopard
 title: PHP 5.3 + XDebug + NetBeans + Mac OSX Leopard
+alias: blog/archives/99/index.html
 wordpress_id: 99
 categories:
 - programming

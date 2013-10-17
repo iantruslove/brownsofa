@@ -5,6 +5,7 @@ date: 2011-01-02 05:17:17+00:00
 layout: post
 slug: the-compleat-attiny13-led-flasher
 title: 'The Compleat ATtiny13 LED Flasher: Part 1 - Setup, Hardware and A Basic Solution'
+alias: blog/archives/191/index.html
 wordpress_id: 191
 categories:
 - microprocessors

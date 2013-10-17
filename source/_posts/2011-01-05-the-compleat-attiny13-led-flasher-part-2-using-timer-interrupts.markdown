@@ -5,6 +5,7 @@ date: 2011-01-05 06:27:48+00:00
 layout: post
 slug: the-compleat-attiny13-led-flasher-part-2-using-timer-interrupts
 title: 'The Compleat ATtiny13 LED Flasher: Part 2 - Using Timer Interrupts'
+alias: blog/archives/215/index.html
 wordpress_id: 215
 categories:
 - microprocessors

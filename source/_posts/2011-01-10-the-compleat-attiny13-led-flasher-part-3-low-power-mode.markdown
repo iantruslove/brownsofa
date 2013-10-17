@@ -3,6 +3,7 @@ author: Ian
 comments: true
 date: 2011-01-10 06:36:28+00:00
 layout: post
+alias: blog/archives/261/index.html
 slug: the-compleat-attiny13-led-flasher-part-3-low-power-mode
 title: 'The Compleat ATtiny13 LED Flasher: Part 3 - Low Power Mode '
 wordpress_id: 261

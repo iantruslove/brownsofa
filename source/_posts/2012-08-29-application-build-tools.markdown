@@ -3,6 +3,7 @@ author: Ian
 comments: true
 date: 2012-08-29 01:12:50+00:00
 layout: post
+alias: blog/archives/367/index.html
 slug: application-build-tools
 title: Application Build Tools
 wordpress_id: 367
