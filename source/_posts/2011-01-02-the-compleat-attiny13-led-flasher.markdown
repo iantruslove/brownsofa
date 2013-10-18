@@ -19,7 +19,7 @@ tags:
 - Programming
 ---
 
-_This is the first part of three in attempting to explain how to make the ATtiny13 flash a LED. _
+_This is the first part of three in attempting to explain how to make the ATtiny13 flash a LED._
 
 
 

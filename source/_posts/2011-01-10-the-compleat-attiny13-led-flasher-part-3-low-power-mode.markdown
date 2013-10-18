@@ -13,16 +13,12 @@ categories:
 - projects
 ---
 
-_This is the final part of three in attempting to explain how to make the ATtiny13 flash a LED.
-_
+_This is the final part of three in attempting to explain how to make the ATtiny13 flash a LED._
 
-
-
-	
-  * _ Part 1: [Setup, Hardware and A Basic Solution](http://brownsofa.org/blog/archives/191)_
+  * _Part 1: [Setup, Hardware and A Basic Solution](http://brownsofa.org/blog/archives/191)_
 
 	
-  * _ Part 2: [Using timer interrupts](http://brownsofa.org/blog/archives/215)_
+  * _Part 2: [Using timer interrupts](http://brownsofa.org/blog/archives/215)_
 
 	
   * _** Part 3: Low power mode**_
