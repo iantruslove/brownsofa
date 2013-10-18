@@ -20,7 +20,7 @@ Like you've seen, we are restoring a 1978 VW Type 2 Transporter, a.k.a. The Bus.
 
 _"How To Keep Your Volkswagen Alive", John Muir [[amazon](http://www.amazon.com/Keep-Volkswagen-Alive-Step-Step/dp/1566913101)]._
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2008/08/muir.jpg)](http://www.amazon.com/Keep-Volkswagen-Alive-Step-Step/dp/1566913101)
+[![](/blog/wp-content/uploads/2008/08/muir.jpg)](http://www.amazon.com/Keep-Volkswagen-Alive-Step-Step/dp/1566913101)
 
 This is the classic, quintessential, indispensible guide.  Well written and produced, it covers everything about owning, maintaining and repairing your air cooled VW (Bus, beetle/bug, whatever).  If you have an older VW and you don't have this book, go out now and get it.  If you only buy one book, buy this one.  Highly recommended.
 
@@ -40,7 +40,7 @@ This is a workshop manual, written in dry, terse, crystal clear language, with e
 
 _"How To Rebuild Your Volkswagen Air-Cooled Engine", Tom Wilson [[amazon](http://www.amazon.com/Rebuild-Volkswagen-air-Cooled-Engine-models/dp/0895862255)]._
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2008/08/wilson.jpg)](http://www.amazon.com/Rebuild-Volkswagen-air-Cooled-Engine-models/dp/0895862255)
+[![](/blog/wp-content/uploads/2008/08/wilson.jpg)](http://www.amazon.com/Rebuild-Volkswagen-air-Cooled-Engine-models/dp/0895862255)
 
 At time of writing I've only just started tearing the engine down, but I have had this book out on my workbench along with the previous two, and it has helped me out so far.
 
@@ -60,6 +60,6 @@ I don't really recommend this book.  There's nothing particularly wrong with it
 
 _"Traveling With The VW Bus And Camper", David and Cee Eccles [[amazon](http://www.amazon.com/Traveling-Bus-Camper-David-Eccles/dp/0789209195)]._
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2008/08/eccles.jpg)](http://www.amazon.com/Traveling-Bus-Camper-David-Eccles/dp/0789209195)
+[![](/blog/wp-content/uploads/2008/08/eccles.jpg)](http://www.amazon.com/Traveling-Bus-Camper-David-Eccles/dp/0789209195)
 
 We picked a copy of this up in Seattle, and it's great.  It is a coffee-table book, not a workshop manual, with hundreds and hundreds of photos of buses and adventues in buses from around the world.  Loads of ideas of how to restore your bus, and inspiration galore for getting the bus running and going on adventures of our own.  I like it.

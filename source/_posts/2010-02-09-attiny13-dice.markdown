@@ -17,7 +17,7 @@ tags:
 - Programming
 ---
 
-[![dice](http://brownsofa.org/blog/wp-content/uploads/2010/02/dice-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/02/dice.jpg) I wanted to learn how to get the handful of non-Arduino AVR chips I have working.  I wanted to learn the basics of the C API, the development toolchain, and get a sense for what can be done with the little ATtiny microprocessors.  Starting with the most limited, teeny tiny little chip (the 1k ATtiny13), I made a dice.
+[![dice](/blog/wp-content/uploads/2010/02/dice-150x150.jpg)](/blog/wp-content/uploads/2010/02/dice.jpg) I wanted to learn how to get the handful of non-Arduino AVR chips I have working.  I wanted to learn the basics of the C API, the development toolchain, and get a sense for what can be done with the little ATtiny microprocessors.  Starting with the most limited, teeny tiny little chip (the 1k ATtiny13), I made a dice.
 <!-- more -->
 
 **Parts**
@@ -67,7 +67,7 @@ The pushbutton switch will need an input pin, so I need 5 of the 6 available I/O
 
 Finally, there's the standard pull-up resistor (R2) to keep the RESET pin high means the following circuit:
 
-![ATtiny13 Dice schematic](http://brownsofa.org/blog/wp-content/uploads/2010/02/schematic.png)
+![ATtiny13 Dice schematic](/blog/wp-content/uploads/2010/02/schematic.png)
 
 Nothing too fancy.  Right now I'm just drawing +5V from the USB programmer - later  steps will include adding power to the circuit.
 
@@ -91,9 +91,9 @@ When it came to testing the code on the device, I initially ran into a problem w
 
 Here's a pic of the breadboard circuit.  You can see the programming adapter plugged in at the top left of the board.
 
-[![dice](http://brownsofa.org/blog/wp-content/uploads/2010/02/dice.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/02/dice.jpg)
+[![dice](/blog/wp-content/uploads/2010/02/dice.jpg)](/blog/wp-content/uploads/2010/02/dice.jpg)
 
-Download the [Source Code](http://brownsofa.org/blog/wp-content/uploads/2010/02/ATtiny13-Dice.zip)
+Download the [Source Code](/blog/wp-content/uploads/2010/02/ATtiny13-Dice.zip)
 
 **Next Steps**
 

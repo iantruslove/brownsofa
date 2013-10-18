@@ -20,11 +20,11 @@ tags:
 
 I was messing around with some Christmas toys and threw together a [Conway's Game Of Life](http://en.wikipedia.org/wiki/Conway's_Game_of_Life) implementation together on my Arduino.  I just love how quick it is to get things up and running on this platform.  It took me longer to solder a platform for the LED matrix to raise it up off the breadboard so the wires would all fit than the whole rest of the project.
 
-Here's a [video of Arduino Game Of Life](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0965.mp4) running.
+Here's a [video of Arduino Game Of Life](/blog/wp-content/uploads/2010/12/IMG_0965.mp4) running.
 
 Anyway, more pictures and full source code are below.  The code has a couple of conditionally compiled options, one for storing rand seeds to EEPROM.  With the randomization turned on, every so often I'd see a "game" that progressed really nicely.  I wanted to be able to go back and watch the same game again.
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0956-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0956.jpg) [![](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0964-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0964.jpg)
+[![](/blog/wp-content/uploads/2010/12/IMG_0956-150x150.jpg)](/blog/wp-content/uploads/2010/12/IMG_0956.jpg) [![](/blog/wp-content/uploads/2010/12/IMG_0964-150x150.jpg)](/blog/wp-content/uploads/2010/12/IMG_0964.jpg)
 
 
 
@@ -36,7 +36,7 @@ Anyway, more pictures and full source code are below.  The code has a couple of
 
 The LED matrix conveniently has a non-standard pin spacing (between the rows of pins that is), and is as wide as the full working area on a solderless breadboard.  I quickly knocked up a breakout board for it, mounting some header pins on the bottom, and the matrix on the top.  This way it plugs directly into the breadboard, leaving clearance for the wires below.
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0950-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0950.jpg) [![](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0951-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0951.jpg) [![](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0952-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0952.jpg) [![](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0955-150x150.jpg)](http://brownsofa.org/blog/wp-content/uploads/2010/12/IMG_0955.jpg)
+[![](/blog/wp-content/uploads/2010/12/IMG_0950-150x150.jpg)](/blog/wp-content/uploads/2010/12/IMG_0950.jpg) [![](/blog/wp-content/uploads/2010/12/IMG_0951-150x150.jpg)](/blog/wp-content/uploads/2010/12/IMG_0951.jpg) [![](/blog/wp-content/uploads/2010/12/IMG_0952-150x150.jpg)](/blog/wp-content/uploads/2010/12/IMG_0952.jpg) [![](/blog/wp-content/uploads/2010/12/IMG_0955-150x150.jpg)](/blog/wp-content/uploads/2010/12/IMG_0955.jpg)
 
 **Source code:**
 

@@ -23,13 +23,13 @@ _This is the second part of three in attempting to explain how to make the ATtin
 
 
 	
-  * _Part 1: [Setup, Hardware and A Basic Solution](http://brownsofa.org/blog/archives/191)_
+  * _Part 1: [Setup, Hardware and A Basic Solution](/blog/archives/191)_
 
 	
   * _**Part 2: Using timer interrupts**_
 
 	
-  * _Part 3: [Low power mode](http://brownsofa.org/blog/archives/261)_
+  * _Part 3: [Low power mode](/blog/archives/261)_
 
 
 _<del>Post-</del>Pre-script: If you find this post useful, happen to try out the code, or have any other views or criticisms, please leave a comment.  I'd love to hear what you think.
@@ -37,7 +37,7 @@ _<del>Post-</del>Pre-script: If you find this post useful, happen to try out the
 
 So last time around, we made a LED flash.  Of course there are other, more elegant ways to do it.  In this post I'll explore interrupts, and specifically the timer overflow interrupt.  For this I'll use the same circuit setup from the first article.  If you're reading this one independently, here's a circuit diagram:
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit-300x152.png)](http://brownsofa.org/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit.png)
+[![](/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit-300x152.png)](/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit.png)
 
 
 ## <!-- more -->Interrupts
@@ -262,4 +262,4 @@ Prescaling the timer is straightforward and straight from the datasheet: `TCCR0B
 
 **References/Acknowledgements: **I have to point out the complete awesomeness and of Dean's [Newbie's Guide to AVR Interrupts](http://www.avrfreaks.net/index.php?name=PNphpBB2&file=viewtopic&t=89843&start=0&postdays=0&postorder=asc&highlight=) on [http://www.avrfreaks.net](http://www.avrfreaks.net/).  It's awesome.   If you want a great explanation of interrupts, go there and read his tut.
 
-Continue reading [part 3](http://brownsofa.org/blog/archives/261) to see how to use these techniques plus sleep modes to save battery power, or review the [previous section](http://brownsofa.org/blog/archives/191).
+Continue reading [part 3](/blog/archives/261) to see how to use these techniques plus sleep modes to save battery power, or review the [previous section](/blog/archives/191).

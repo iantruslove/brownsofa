@@ -15,10 +15,10 @@ categories:
 
 _This is the final part of three in attempting to explain how to make the ATtiny13 flash a LED._
 
-  * _Part 1: [Setup, Hardware and A Basic Solution](http://brownsofa.org/blog/archives/191)_
+  * _Part 1: [Setup, Hardware and A Basic Solution](/blog/archives/191)_
 
 	
-  * _Part 2: [Using timer interrupts](http://brownsofa.org/blog/archives/215)_
+  * _Part 2: [Using timer interrupts](/blog/archives/215)_
 
 	
   * _** Part 3: Low power mode**_
@@ -26,10 +26,10 @@ _This is the final part of three in attempting to explain how to make the ATtiny
 
 In previous posts we've looked at creating a simple LED flasher circuit for the ATtiny, a first-pass program for the ATtiny using delays, and a second-pass implementation exploiting timer overflows resulting in a simpler program.  In this article I will explore the power saving modes on the ATtiny13 as an example of how to minimize the power consumption of your circuit.  If your ATTtiny13-, ATtiny80-, or even ATmega-based circuit relies on battery power you will be able to significantly improve the battery life by using the chips' power saving modes.
 
-In this article we will be using the same circuit developed in the [previous](http://brownsofa.org/blog/archives/191) [posts](http://brownsofa.org/blog/archives/215):
+In this article we will be using the same circuit developed in the [previous](/blog/archives/191) [posts](/blog/archives/215):
 
 
-[![](http://brownsofa.org/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit-300x152.png)](http://brownsofa.org/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit.png)[![](http://brownsofa.org/blog/wp-content/uploads/2011/01/board-300x225.jpg)](http://brownsofa.org/blog/wp-content/uploads/2011/01/board.jpg)
+[![](/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit-300x152.png)](/blog/wp-content/uploads/2011/01/LED-Flasher-Circuit.png)[![](/blog/wp-content/uploads/2011/01/board-300x225.jpg)](/blog/wp-content/uploads/2011/01/board.jpg)
 
 
 
@@ -179,4 +179,4 @@ For more ways to reduce power consumption, read §7.4 in the datasheet.
 
 [Jumptuck's](http://jumptuck.wordpress.com) [LED Menorah](http://jumptuck.wordpress.com/2008/11/13/led-menorah-powered-by-avr-tiny13/) is a real-world example of using the sleep modes to reduce power consumption - in that case it's to reduce power whilst the device is "off".
 
-Go back to [part 1](http://brownsofa.org/blog/archives/191) or [part 2](http://brownsofa.org/blog/archives/215).
+Go back to [part 1](/blog/archives/191) or [part 2](/blog/archives/215).
