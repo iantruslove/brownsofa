@@ -1,3 +1,8 @@
+## Usage
+
+* `rake generate` - compile the assets
+* `rake deploy` - publishes latest changes to S3
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
