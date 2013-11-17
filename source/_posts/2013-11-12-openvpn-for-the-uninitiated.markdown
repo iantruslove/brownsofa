@@ -39,7 +39,7 @@ When I'm working on an untrusted wireless network,
 I want to be able to flick a switch on my laptop and route all network traffic
 through an encrypted tunnel back to my home network connection.
 I might also want to access file resources on machines at home,
-but my primary goal is to secure my network comms whilst oway from home.
+but my primary goal is to secure my network comms whilst away from home.
 
 To do this, I need to build a VPN,
 on the server end of which needs to be a network bridge to to my home network
