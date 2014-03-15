@@ -2,6 +2,7 @@
 layout: page
 title: "Presentations and Publications"
 date: 2013-10-20 22:03
+updated: 2014-03-13 22:03
 comments: true
 sharing: true
 footer: true
@@ -9,6 +10,27 @@ navbar: Presentations
 ---
 
 Here is a selection of my presentations, publications and posters.
+
+<a name="docker_whats_in_it_for_me"></a>
+## Docker: What's in it for me?
+
+**Ian Truslove**
+
+_Abstract:_
+
+> Docker is a new containerization tool that seems to be all the rage. But what is it, what is it being used for, and more importantly, "what's in it for me?"  This presentation will provide a developer/devops point of view of some introductory concepts and tools used to build, deploy and run Docker containers, and how Docker might fit into highly scalable web application architectures.
+
+Presented at [Boulder Linux User Group][] on 13 March 2014.
+Slides [here](https://dl.dropboxusercontent.com/u/4292130/Docker__BLUG_2014-03-13.pdf)
+and [local copy](./files/Docker_whats_in_it_for_me.pdf).
+
+[Boulder Linux User Group]: http://lists.lug.boulder.co.us/pipermail/lug/Week-of-Mon-20140310/043502.html
+
+Resources:
+
+* Some [useful Docker command lines](https://gist.github.com/iantruslove/9537509) I'm building up
+* [ElasticSearch + SSH dockerfile](https://github.com/iantruslove/docker-elasticsearch-ssh)
+* [Search application source and dockerfile](https://github.com/iantruslove/search-clojure-archives)
 
 ## Strategies, motivations, and influencing adoption of testing for scientific code
 
