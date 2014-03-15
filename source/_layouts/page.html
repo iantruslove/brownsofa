@@ -9,6 +9,9 @@ layout: default
         <header class="page-header">
           {% if page.date %}
             <p class="meta text-muted text-uppercase">{% include post/date.html %}{{ time }}</p>
+            <p class="meta text-muted text-uppercase">{% if page.updated %}
+                {{ page.updated | date: "updated %-d %B, %Y" }}
+              {% endif %}</p>
           {% endif %}
           {% if page.title %}
             <h1 class="entry-title">
