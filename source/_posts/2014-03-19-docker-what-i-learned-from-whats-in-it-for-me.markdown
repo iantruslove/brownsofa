@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Docker: what I learned from working out what's in it for me"
-date: 2014-03-14 22:10
+date: 2014-03-19 20:31
 comments: true
 categories:
 - docker
