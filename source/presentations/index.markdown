@@ -24,7 +24,10 @@ Presented at [Boulder Linux User Group][] on 13 March 2014.
 Slides [here](https://dl.dropboxusercontent.com/u/4292130/Docker__BLUG_2014-03-13.pdf)
 and [local copy](./files/Docker_whats_in_it_for_me.pdf).
 
+Presented at [UCAR Software Engineering Assembly seminar][docker sea] on 20 March 2014.  Video of the presentation is available on that website.
+
 [Boulder Linux User Group]: http://lists.lug.boulder.co.us/pipermail/lug/Week-of-Mon-20140310/043502.html
+[docker sea]: https://sea.ucar.edu/event/docker-whats-it-me
 
 Resources:
 
