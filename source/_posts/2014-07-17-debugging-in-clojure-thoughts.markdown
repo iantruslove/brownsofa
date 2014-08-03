@@ -52,7 +52,7 @@ tools themselves.
 
 {% img right /images/debugging-in-clojure/terminal.png 'Hi-tech coding' 'Hi-tech coding' %} At
 work, I am constrained to write Clojure in a terminal (we use remote
-tmux) and really, using in Emacs.  This is a fine set of constraints,
+tmux) and really, using Emacs.  This is a fine set of constraints,
 but my debugging solutions haven't considered tools like Nightcode,
 Light Table, La Clojure or other IDE-like tools.  Looking at the
 various product websites, point-and-click debugging has different
