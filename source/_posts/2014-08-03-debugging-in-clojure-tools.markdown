@@ -25,10 +25,10 @@ This part is about writing debuggable code, and the tools I use or have seen to 
 * Constructing comprehensible systems
   * Easy to exercise
   * Easily observed behavior
-  * Unit Tests
-  * Purity and State
-  * Understand your assumptions.
-* Tools and Techniques
+  * Unit tests
+  * Purity and state
+  * Understand your assumptions
+* Tools and techniques
   * The REPL
   * println
   * Tracing with Spyscope
@@ -78,7 +78,7 @@ function's behavior might also require observing the control flow
 parsing or decoding to determine whether it operated correctly,
 consider whether the function has too many responsibilities.
 
-## Unit Tests
+## Unit tests
 
 I debated for a second whether tests are part of comprehensible
 systems, or whether they are tools.  They are an integral part of any
@@ -86,7 +86,7 @@ code base, so here they belong.  Tests are your infallible long-term
 memory, a playground for experimentation, your sanity check.  Easily
 exercised, easily verified functions are easily unit tested.
 
-## Purity and State
+## Purity and state
 
 Writing pure functions aids the system's comprehensibility enormously.
 `f(x) = f(x)` when your program starts up, or when it's crashing, and
@@ -116,7 +116,7 @@ and conquer. By looking at the problem into smaller and smaller chunks
 (i.e. the layers of composed functions), you exclude possibilities of
 where the source of the problem is, until the answer jumps out at you.
 
-## Understand your assumptions.
+## Understand your assumptions
 
 With Occam's Razor in mind, be ready to question your assumptions.
 There's always the possibility a bug in Clojure core is the cause of
@@ -127,7 +127,7 @@ code), so the assumptions built in here are the first ones to
 question, to check, and to verify.
 
 
-# Tools and Techniques
+# Tools and techniques
 
 Finally, the Clojure debugging tools easily available to you in Emacs.
 They all are
