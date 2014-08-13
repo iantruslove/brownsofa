@@ -2,7 +2,9 @@
 .DS_Store
 .sass-cache
 .gist-cache
+/_gist_cache/
 .pygments-cache
+.preview-mode
 _deploy
 public
 sass.old
