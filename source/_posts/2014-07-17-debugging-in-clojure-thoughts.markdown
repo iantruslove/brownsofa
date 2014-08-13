@@ -134,13 +134,16 @@ coverage".  Here is my "algorithm" for debugging:
    code is, the problem will at this point become clear, and you need
    to devise a way to fix it.  Remember, the problem might be your
    expectation.
-   
+
 So, the debugging process can - in general - be outlined.  There are
 architectural decisions you can make, and tools you can use, in order
 to better pose and answer questions about the runtime behavior of your
-code. The second part of this article will cover what a debuggable
-Clojure-based codebase would be, and then dig into some Emacs and
-Clojure tools I have found useful.
+code. The [second part of this article][part2] <strike>will
+cover</strike> covers what a debuggable Clojure-based codebase
+would be, and then digs into some Emacs and Clojure tools I have found
+useful.
+
+[part2]: /blog/2014/08/03/debugging-in-clojure-tools/
 
 -----
 
