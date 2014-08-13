@@ -14,9 +14,12 @@ categories:
 {% img right /images/debugging-in-clojure/butterfly_net.jpg 'Butterfly net' 'Butterfly net' %}
 
 [Part one][] covered the types of things I'm considering when talking
-about "debugging", and the process by which I debug code".
+about "debugging", and the process by which I debug code.
 
-This part is about writing debuggable code, and the tools I use or have seen to debug code.
+This part is about writing debuggable code, and the tools I use or
+have seen to debug code: the REPL, println debugging and better,
+tracing with Spyscope and clojure.tools.trace, and other assorted good
+things.
 
 <!-- more -->
 
